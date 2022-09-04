@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ATM-PROJECT.iml" filepath="$PROJECT_DIR$/ATM-PROJECT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.ttp/com.ttp.iml" filepath="$PROJECT_DIR$/com.ttp/com.ttp.iml" />
+    </modules>
+  </component>
+</project>

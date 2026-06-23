@@ -1,1 +1,1 @@
-this project is the 1st project I practised when first time learning JAVA.
+this project is the first project I practised when first time learning JAVA.
